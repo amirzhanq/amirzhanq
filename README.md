@@ -12,13 +12,15 @@ I am Amir Shanenov, Software Engineer
 
 <h3>🚀 What I Use</h3>
 <p align="left">
-  <img src="https://cdn.svgporn.com/logos/php.svg" alt="go" width="25" height="25" />
+<img src="https://cdn.svgporn.com/logos/php.svg" alt="php" width="25" height="25" />
 <img src="https://cdn.svgporn.com/logos/go.svg" alt="go" width="25" height="25" />
 <img src="https://cdn.svgporn.com/logos/docker-icon.svg" alt="Docker" width="25" height="25" />
 <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="25" height="25" />
 <img src="https://cdn.svgporn.com/logos/postgresql.svg" alt="postgresql" width="25" height="25" />
 <img src="https://cdn.svgporn.com/logos/mongodb.svg" alt="mongodb" width="25" height="25" />
 <img src="https://cdn.svgporn.com/logos/rabbitmq-icon.svg" alt="rabbit" width="25" height="25" />
+<img src="https://cdn.svgporn.com/logos/elasticsearch.svg" alt="elasticsearch" width="25" height="25" />
+  <img src="https://cdn.svgporn.com/logos/laravel.svg" alt="elasticsearch" width="25" height="25" />
   <!--
 <img src="https://cdn.svgporn.com/logos/kafka-icon.svg" alt="kafka" width="25" height="25" />
 <img src="https://cdn.svgporn.com/logos/prometheus.svg" alt="prometheus" width="25" height="25" />
